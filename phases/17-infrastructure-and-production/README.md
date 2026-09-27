@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Phase 17: Infrastructure & Production
 
 > Ship AI to the real world. Scale, monitor, optimize.

@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Phase 6: Speech & Audio
 
 > The other half of human communication. Hear, understand, speak.

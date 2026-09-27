@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Capstone 19/01 — Terminal-Native Coding Agent (TypeScript)
 
 Multi-file TypeScript harness for the plan/act/observe loop described in

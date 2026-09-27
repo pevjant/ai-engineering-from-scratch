@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Claude Certification Curriculum
 
 > Learn the judgment behind the answers by building the systems the exams describe.

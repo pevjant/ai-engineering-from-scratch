@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Multi-agent software team (TypeScript skeleton)
 
 Multi-file TypeScript skeleton for the multi-agent software team capstone.

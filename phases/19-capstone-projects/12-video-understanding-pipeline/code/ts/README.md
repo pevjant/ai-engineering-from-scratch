@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Lesson 12 - Video Understanding Pipeline (TypeScript UI)
 
 TypeScript half of the capstone. The Python side (`code/main.py`) owns the

@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Lesson 16 - GitHub Issue-to-PR Agent (TypeScript webhook receiver)
 
 TypeScript half of the capstone. Python side ships the agent loop and

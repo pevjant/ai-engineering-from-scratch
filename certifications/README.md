@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Certification Curricula
 
 > A credential should be evidence that you can do the work, not evidence that you memorized a question bank.

@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Phase 14: Agent Engineering
 
 > The core of modern AI engineering. Build agents from first principles.

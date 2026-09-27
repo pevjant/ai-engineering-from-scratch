@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Phase 8: Generative AI
 
 > Create images, video, audio, 3D, and more.

@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # LLM observability dashboard (TypeScript skeleton)
 
 Multi-file TypeScript skeleton for the LLM observability dashboard capstone.

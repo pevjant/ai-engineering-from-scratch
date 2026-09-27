@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Capstone 08 - Production RAG Chatbot (TypeScript)
 
 Chat UI skeleton that streams a citation-anchored response over Server-Sent

@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Phase 12: Multimodal AI
 
 > Models that see, hear, read, and reason across modalities.

@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Capstone 04 - Multimodal Document QA (TypeScript)
 
 Viewer skeleton that returns a page image URL plus a JSON list of cited bounding

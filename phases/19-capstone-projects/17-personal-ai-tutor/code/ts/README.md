@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Lesson 17 - Personal AI Tutor (TypeScript web app)
 
 TypeScript half of the capstone. Python side ships the learner model and

@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Phase 7: Transformers Deep Dive
 
 > The architecture that changed everything. Understand every layer.

@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Phase 3: Deep Learning Core
 
 > Neural networks from first principles. No frameworks until you build one yourself.

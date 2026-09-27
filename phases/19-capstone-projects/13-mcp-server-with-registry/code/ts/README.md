@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Lesson 13 - Stateless MCP Server (TypeScript)
 
 TypeScript half of the capstone. The Python side (`code/main.py`) ships the

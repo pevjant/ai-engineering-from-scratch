@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Phase 0: Setup & Tooling
 
 > Get your environment ready for everything that follows.

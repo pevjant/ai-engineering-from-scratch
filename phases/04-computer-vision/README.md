@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Phase 4: Computer Vision
 
 > From pixels to understanding across image, video, and 3D.

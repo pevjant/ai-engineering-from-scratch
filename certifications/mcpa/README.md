@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # MCPA Certification Curriculum
 
 > Learn the judgment the exam measures by building the protocol the exam describes.

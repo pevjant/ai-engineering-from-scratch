@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Phase 18: Ethics, Safety & Alignment
 
 > Build AI that helps humanity. Not optional.

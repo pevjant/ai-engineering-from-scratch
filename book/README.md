@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Book Pipeline
 
 The course compiles into a six-volume book series. The book is a companion, not a replacement: interactive figures, graded quizzes, and runnable code stay on the website and in this repository, and every chapter ends with the links that take the reader there.

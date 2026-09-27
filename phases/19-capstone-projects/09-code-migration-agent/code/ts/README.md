@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Code migration agent dashboard (TypeScript skeleton)
 
 Multi-file TypeScript skeleton for the dashboard layer of the code migration

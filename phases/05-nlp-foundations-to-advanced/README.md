@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Phase 5: NLP, Foundations to Advanced
 
 > Language is the interface to intelligence. Master every layer.

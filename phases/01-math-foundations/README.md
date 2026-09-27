@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Phase 1: Math Foundations
 
 > The intuition behind every AI algorithm, through code, not textbooks.

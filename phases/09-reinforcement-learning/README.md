@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Phase 9: Reinforcement Learning
 
 > Agents that learn by doing. The foundation of RLHF.

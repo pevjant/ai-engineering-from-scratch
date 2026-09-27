@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Phase 19: Capstone Projects
 
 > Prove everything you learned. Build portfolio-grade systems.

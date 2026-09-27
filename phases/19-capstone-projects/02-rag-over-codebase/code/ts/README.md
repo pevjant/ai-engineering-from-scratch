@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Capstone 19/02 — RAG over Codebase (TypeScript)
 
 Multi-file TypeScript code-search API for the hybrid retrieval pipeline

@@ -1,3 +1,5 @@
+> 🇰🇷 한국어 버전이 있습니다: [README.ko.md](README.ko.md)
+
 # Capstone 06 - DevOps Troubleshooting Agent (TypeScript)
 
 Slack-integration skeleton for the on-call agent in `../main.py`. Exposes a
