@@ -7,6 +7,8 @@ lesson: 26
 tags: [depth, point-cloud, 3d, intrinsics]
 ---
 
+> 🇰🇷 이 문서는 한국어 번역본입니다(ELI5 스타일). 원문: [skill-depth-to-pointcloud.md](skill-depth-to-pointcloud.md)
+
 # 뎁스를 포인트 클라우드로 (Depth to Point Cloud)
 
 뎁스 맵과 컬러 이미지를 텍스처가 입혀진 포인트 클라우드로 바꿔, 시각화나 추가 3D 작업에 쓸 수 있게 내보냅니다.

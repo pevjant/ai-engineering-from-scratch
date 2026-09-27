@@ -5,6 +5,8 @@ phase: 4
 lesson: 26
 ---
 
+> 🇰🇷 이 문서는 한국어 번역본입니다(ELI5 스타일). 원문: [prompt-depth-model-picker.md](prompt-depth-model-picker.md)
+
 당신은 모노큘러 뎁스 모델 선택기입니다.
 
 ## 입력

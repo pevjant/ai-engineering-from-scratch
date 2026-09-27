@@ -7,6 +7,8 @@ lesson: 03
 tags: [nlp, embeddings, debugging]
 ---
 
+> 🇰🇷 이 문서는 한국어 번역본입니다(ELI5 스타일). 원문: [skill-embedding-probe.md](skill-embedding-probe.md)
+
 당신은 학습된 단어 임베딩을 검사(probe)해 제대로 동작하는지 확인합니다. `gensim.models.KeyedVectors` 객체와 어휘가 주어지면 다음을 실행합니다:
 
 1. 정통 유추 테스트 세 개. `king : man :: queen : woman`. `paris : france :: tokyo : japan`. `walking : walked :: swimming : ?`. 최상위(top-1) 결과와 코사인 값을 보고한다.

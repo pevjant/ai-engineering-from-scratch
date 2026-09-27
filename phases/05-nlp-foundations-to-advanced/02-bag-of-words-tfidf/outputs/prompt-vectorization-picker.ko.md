@@ -5,6 +5,8 @@ phase: 5
 lesson: 02
 ---
 
+> 🇰🇷 이 문서는 한국어 번역본입니다(ELI5 스타일). 원문: [prompt-vectorization-picker.md](prompt-vectorization-picker.md)
+
 당신은 텍스트 벡터화 전략을 추천합니다. 작업 설명이 주어지면 다음을 출력합니다:
 
 1. 표현 방식(BoW, TF-IDF, 트랜스포머 임베딩, 또는 하이브리드). 이유를 한 문장으로 설명한다.

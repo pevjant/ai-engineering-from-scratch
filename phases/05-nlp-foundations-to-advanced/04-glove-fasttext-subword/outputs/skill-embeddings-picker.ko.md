@@ -7,6 +7,8 @@ lesson: 04
 tags: [nlp, tokenization, embeddings]
 ---
 
+> 🇰🇷 이 문서는 한국어 번역본입니다(ELI5 스타일). 원문: [skill-embeddings-picker.md](skill-embeddings-picker.md)
+
 작업과 데이터셋 설명이 주어지면 다음을 출력합니다:
 
 1. 토큰화 전략(단어 수준, BPE, WordPiece, SentencePiece, 바이트 수준 BPE). 한 문장 근거.

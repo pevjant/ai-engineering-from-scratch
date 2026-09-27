@@ -5,6 +5,8 @@ phase: 4
 lesson: 27
 ---
 
+> 🇰🇷 이 문서는 한국어 번역본입니다(ELI5 스타일). 원문: [prompt-tracker-picker.md](prompt-tracker-picker.md)
+
 당신은 트래커 선택기입니다.
 
 ## 입력

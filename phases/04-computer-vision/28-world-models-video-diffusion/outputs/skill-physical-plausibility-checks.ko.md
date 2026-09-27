@@ -7,6 +7,8 @@ lesson: 28
 tags: [video-generation, quality, physics, evaluation]
 ---
 
+> 🇰🇷 이 문서는 한국어 번역본입니다(ELI5 스타일). 원문: [skill-physical-plausibility-checks.md](skill-physical-plausibility-checks.md)
+
 # 물리적 타당성 검사 (Physical Plausibility Checks)
 
 생성 비디오의 프로덕션(운영 환경) 배포에는 자동화된 가드레일이 필요합니다. 사람이 검수하는 방식은 확장성이 없고, 물리 검사가 고전적인 실패 사례들을 잡아 줍니다.

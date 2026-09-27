@@ -7,6 +7,8 @@ lesson: 27
 tags: [mot, evaluation, tracking, metrics]
 ---
 
+> 🇰🇷 이 문서는 한국어 번역본입니다(ELI5 스타일). 원문: [skill-mot-evaluator.md](skill-mot-evaluator.md)
+
 # MOT 평가기 (MOT Evaluator)
 
 트래커의 출력을 표준 MOTA/IDF1/HOTA 파이프라인에 넣어, 논문의 수치와 공정하게 비교할 수 있게 만듭니다.
